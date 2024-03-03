@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlazejMistak
 - 👀 I’m interested in programming, aviation and F1
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning web-development
 - 📫 How to reach me: blazej.mistak.bm@gmail.com
 - 😄 Pronouns: he/him
 
